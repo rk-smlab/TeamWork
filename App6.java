@@ -3,6 +3,7 @@ import java.util.Random;
 import java.util.Scanner;
 import java.util.function.IntUnaryOperator;
 //asdafas
+//jijij
 
 public class App6 {
 
