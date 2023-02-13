@@ -9,6 +9,10 @@ public class App6 {
   private static Scanner input = new Scanner(System.in);
 
   public static void main(String[] args) {
-
+    int len = getNumberByUser("Введите количество элементов ");
     }
+  public static int getNumberByUser(String text) {
+    System.out.print(text);
+    return input.nextInt();
+  }
 }
