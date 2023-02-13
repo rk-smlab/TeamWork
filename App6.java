@@ -9,10 +9,9 @@ public class App6 {
   private static Scanner input = new Scanner(System.in);
 
   public static void main(String[] args) {
-    int len = getNumberByUser("Введите количество элементов ");
+    int[] items = createArray(5);
     }
-  public static int getNumberByUser(String text) {
-    System.out.print(text);
-    return input.nextInt();
+  public static int[] createArray(int size) {
+    return new int[size];
   }
 }
