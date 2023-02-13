@@ -13,5 +13,6 @@ public class App6 {
     }
   public static int[] createArray(int size) {
     return new int[size];
+    
   }
 }
