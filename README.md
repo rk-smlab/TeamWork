@@ -8,3 +8,4 @@
 6. Фиксируем изменения командой: **git add .**
 7. Делаем коммит: **git commit -m "комментарий"**
 8. Пушим: **git push -u origin \<name branch>**
+9. На github содаём pull request
