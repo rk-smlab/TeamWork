@@ -5,6 +5,7 @@ import java.util.function.IntUnaryOperator;
 
 public class App6 {
 
+  ///test
   private static Random random = new Random();
   private static Scanner input = new Scanner(System.in);
 
