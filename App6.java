@@ -2,9 +2,11 @@ import java.util.Arrays;
 import java.util.Random;
 import java.util.Scanner;
 import java.util.function.IntUnaryOperator;
+//asdafas
 
 public class App6 {
 
+  ///test
   private static Random random = new Random();
   private static Scanner input = new Scanner(System.in);
 
