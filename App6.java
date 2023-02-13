@@ -2,6 +2,7 @@ import java.util.Arrays;
 import java.util.Random;
 import java.util.Scanner;
 import java.util.function.IntUnaryOperator;
+//asdafas
 
 public class App6 {
 
